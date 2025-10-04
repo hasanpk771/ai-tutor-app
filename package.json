@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "frontend",
   "version": "1.0.0",
   "description": "",
@@ -13,5 +14,16 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-scripts": "^5.0.1"
+=======
+  "name": "tutor-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "openai": "^5.23.2",
+    "cors": "^2.8.5"
+>>>>>>> cc6dc54afa3ac19023a0a6706df83d139c0b2720
   }
 }
